@@ -1,6 +1,6 @@
 fastapi
 mangum
-sentence_transformers
+sentence-transformers==2.2.2
 langchain
 InstructorEmbedding
 uvicorn
